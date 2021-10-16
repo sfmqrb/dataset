@@ -2,6 +2,7 @@
 * interday 
 * intraday 
 * fundamental data 
+
 ## **other packages we use**
 * tse-client + pytse 
 * Here is tse-client : [link](https://github.com/m-ahmadi/tse-client) 
